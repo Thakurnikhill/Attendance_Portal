@@ -68,5 +68,4 @@ Feel free to explore all roles using the credentials above.
 
 ---
 
-## 📦 Project Structure
 
