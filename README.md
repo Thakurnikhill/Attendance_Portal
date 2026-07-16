@@ -41,7 +41,7 @@ You can test the system with the following sample users:
 - **Password:** `faculty@123`
 
 ### 👑 Admin  
-- **Username:** `admin2`  
+- **Username:** `admin`  
 - **Password:** `admin@123`
 
 > You can also add new users by logging in as an admin and using the admin panel.
