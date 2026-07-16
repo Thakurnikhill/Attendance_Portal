@@ -33,7 +33,7 @@ A complete **role-based College Attendance Management System** for **Gautam Budd
 You can test the system with the following sample users:
 
 ### 🎓 Student  
-- **Username:** `225UCS073`  
+- **Username:** `225/UCS/001`  
 - **Password:** `student@123`
 
 ### 👨‍🏫 Faculty  
